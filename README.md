@@ -18,25 +18,16 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <img align="left" alt="Android" width="30px"
-src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"/>
+src="https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67"/>
 
 <img align="left" alt="Java" width="30px"
-src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/>
+src="https://miro.medium.com/max/1050/0*4Z6mwORGhtSAgeQ2.png"/>
 
 <img align="left" alt="python" width="30px"
-src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
+src="https://i.pinimg.com/originals/0b/84/9c/0b849c72f38362fe12072a4916660013.png"/>
 
-<img align="left" alt="Django" width="30px"
-src="https://cdn.iconscout.com/icon/free/png-64/django-1-282754.png"/>
-
-<img align="left" alt="Django Rest Framework" height="30px"
-src="https://www.pydanny.com/images/drf.png"/>
-
-<img align="left" alt="Cpp" width="30px"
-src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"/>
-
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-
+<img align="left" alt="MATLAB" width="30px"
+src="https://commons.wikimedia.org/wiki/File:Matlab_Logo.png"/>
 
 <br/>
 <br/>
