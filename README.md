@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="30px"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
 
-<img align="left" alt="Java" width="30px"
+<img align="left" alt="TensorFlow" width="30px"
 src="https://miro.medium.com/max/1050/0*4Z6mwORGhtSAgeQ2.png"/>
 
-<img align="left" alt="python" width="30px"
+<img align="left" alt="C++" width="30px"
 src="https://i.pinimg.com/originals/0b/84/9c/0b849c72f38362fe12072a4916660013.png"/>
 
 <img align="left" alt="MATLAB" width="30px"
@@ -32,9 +32,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
 <br/>
 <br/>
 <br/>
+                         
+![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=raina-akshay&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-![Akshay's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=raina-akshay&show_icons=true)
-
-![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=raina-akshay&show_icons=true )
+![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=raina-akshay)
 
 📫 How to reach me:
