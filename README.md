@@ -35,6 +35,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
                          
 ![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=raina-akshay&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
-![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=raina-akshay)
+![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=raina-akshay&count_private=true)
 
-📫 How to reach me: https://akshayraina.in
+📫 How to reach me: [Personal Webpage](https://akshayraina.in "Portfolio")
