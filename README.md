@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 # I'm Akshay Raina
-### I know bit of Machine Learning, Deep Learning and Signal Processing
+### I enjoy Machine Learning, Deep Learning and Signal Processing
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px"
