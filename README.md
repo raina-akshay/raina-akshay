@@ -38,4 +38,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
 ![Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=raina-akshay&count_private=true)
 
 📫 How to reach me: [Personal Webpage](https://akshayraina.in "Portfolio")
-[E- mail](mailto: work@akshayraina.in)
+[E- mail](mailto: akshayy.rainaa@gmail.com)
